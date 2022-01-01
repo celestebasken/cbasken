@@ -14,14 +14,14 @@ about:
         <br> This amazing opportunity enabled me to learn R and GIS, and it also helped me learn about different careers in environmental science and get an inside look at professional research. The culmination of my internship was a poster presentation at the International Association of Landscape Ecology- North America conference (IALE 2021)."
 
   button:
-    enable : true
+    enable : false
     label : "My IALE Presentation"
     link : "https://celestebasken.com/blog/ialeconference/"
 
 ################################## TNC #####################################
 
 TNC:
-  enable : true
+  enable : false
   image : "images/company/about.jpg"
   title : "The Nature Conservancy TEST."
   content : "I believe effective data visualization has the power to change minds and I’m driven by the urgency of environmental issues. Since August 2020 I’ve had an internship with The Nature Conservancy’s LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
@@ -32,7 +32,7 @@ Skills in R
 ○ Sort and wrangle data"
 
   button:
-    enable : true
+    enable : false
     label : "BUTTON"
     link : "https://celestesrblog.netlify.app/"
     
