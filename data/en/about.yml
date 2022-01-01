@@ -1,21 +1,12 @@
 ################################## About #####################################
 about:
-  enable : false
-  image : "images/company/about.jpg"
-  title : "Internship with The Nature Conservancy."
-  content : "I believe effective data visualization has the power to change minds and I&rsquo;m driven by the urgency of environmental issues. From 7/20-7/21 I interned virtually with The Nature Conservancy&rsquo;s LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
-        <br> 
-        <br> Skills in R 
-        <br> ○ Create ggplot and interactive leaflet choropleth maps 
-        <br> ○ Create bar, lollipop, and sankey charts, among others 
-        <br> ○ Parameterize charts to create multiple iterations 
-        <br> ○ Sort and wrangle data
-        <br>
-        <br> This amazing opportunity enabled me to learn R and GIS, and it also helped me learn about different careers in environmental science and get an inside look at professional research. The culmination of my internship was a poster presentation at the International Association of Landscape Ecology- North America conference (IALE 2021)."
-
+  enable : true
+  image : ""
+  title : ""
+  content : ""
   button:
-    enable : false
-    label : "My IALE Presentation"
+    enable : true
+    label : "Reflection on environmental internships"
     link : "https://celestebasken.com/blog/ialeconference/"
 
 ################################## TNC #####################################
