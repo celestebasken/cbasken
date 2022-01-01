@@ -133,7 +133,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Celeste Basken 2021"
+copyright = "Celeste Basken 2022"
 
 
 ######################### english navigation #############################
@@ -242,7 +242,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Celeste Basken 2021"
+copyright = "Celeste Basken 2022"
 
 
 ######################### france navigation #############################

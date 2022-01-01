@@ -4,7 +4,7 @@ banner:
   bg_image : "images/backgrounds/yosemiteMts.jpg"
   bg_overlay : true
   title : "Celeste Basken"
-  content : "High school senior, UMD aquaponics lab intern, executive producer of my high school's film program, environmental activist and more."
+  content : "High school senior, executive producer of my high school's film program, environmental activist and more."
   button:
     enable : true
     label : "My LinkedIn"
@@ -15,7 +15,7 @@ about:
   enable : true
   title : "This portfolio serves as a collection of my academic, extracurricular and general interests."
   description : ""
-  content : "I'm passionate about the <b>intersection between science and communication</b>, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate activism in the Sunrise Movement to hold power to account for issues I care about.
+  content : "I'm passionate about the <b>intersection between science and communication</b>, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate activism in the Sunrise Movement to influence environmental policy at the national and local levels.
   <br><br>
   I created this website in the computer programming language R using a [Hugo Blogdown theme](https://themes.gohugo.io/airspace-hugo/). To read more about my programming experience, please check out the [environmental science page.](https://celestebasken.com/about/)"
   image : "images/me/wrapper-img.png"
@@ -25,7 +25,7 @@ about:
 portfolio:
   enable : true
   bg_image : "images/me/featue-bg.jpg"
-  title : "EXPLORE MY FILMS"
+  title : "EXPLORE MY FILM LEADERSHIP"
   content : ""
   button:
     enable : true
