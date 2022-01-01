@@ -1,6 +1,6 @@
 ################################## About #####################################
 about:
-  enable : true
+  enable : false
   image : "images/company/about.jpg"
   title : "Internship with The Nature Conservancy."
   content : "I believe effective data visualization has the power to change minds and I&rsquo;m driven by the urgency of environmental issues. From 7/20-7/21 I interned virtually with The Nature Conservancy&rsquo;s LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
