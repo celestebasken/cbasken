@@ -1,7 +1,6 @@
 ################################## About #####################################
 about:
   enable : true
-  image : ""
   title : ""
   content : ""
   button:
