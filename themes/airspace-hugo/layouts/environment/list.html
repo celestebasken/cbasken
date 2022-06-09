@@ -4,8 +4,8 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
+{{ if $data.environment.environment.enable }}
+{{ with $data.environment.environment }}
 <section class="description-text">
    <style>
 h1 {text-align: center; margin: auto}
@@ -19,27 +19,27 @@ div {text-align: center;}
 <p>In addition to taking AP environmental science, I've been fortunate to explore my interest in the environment outside of school through internships, research, film and political organizing.</p>
 <h2 style="text-align: center;">Internships and Research</h2>
 <h3 style="text-align: center;">AQUAPONICS LAB INTERN AT THE UNIVERSITY OF MARYLAND </h3>
-<p>I'm currently starting an internship in the aquaponics lab at the University of Maryland, College Park. <span style="font-weight: 400;"> The lab's graduate students are conducting research into the flow of nonpathogenic viruses through the aquaponics system. I'm learning to monitor the water and soil quality, feed the fish, and clean the bacteria in the lab. I hope our research can contribute to sustainable agriculture practices being adopted more widely, something I am very passionate about.</span></p>
+<p>I'm currently starting an internship in the aquaponics lab at the University of Maryland, College Park. <span style="font-weight: 400;"> The lab's graduate students are conducting research into the flow of nonpathogenic viruses through the aquaponics system. I'm learning to monitor the water and soil quality, feed the fish, and clean the bacteria in the lab. I hope our research can contribute to sustainable agriculture practices being adopted more widely, something I am very passionate environment.</span></p>
 <div class="col-md-15">
 <h3 style="text-align: center;">USDA AGRICULTURE DISCOVERY PROGRAM AT THE UNIVERSITY OF MARYLAND</h3>
-<p>In the summer of 2021, I participated in the USDA's Ag Discovery scholarship program virtually through the University of Maryland. <span style="font-weight: 400;">I took a 3-credit college course on agriculture, food and the environment. Through this program, I learned about different careers within agriculture and environmental science, learned about the history of agriculture, and completed a research project about the poultry industry in Maryland. I've had a longstanding passion for sustainable agriculture, and this was a formal opportunity for me to delve further into this area of interest.</span></p>
+<p>In the summer of 2021, I participated in the USDA's Ag Discovery scholarship program virtually through the University of Maryland. <span style="font-weight: 400;">I took a 3-credit college course on agriculture, food and the environment. Through this program, I learned environment different careers within agriculture and environmental science, learned environment the history of agriculture, and completed a research project environment the poultry industry in Maryland. I've had a longstanding passion for sustainable agriculture, and this was a formal opportunity for me to delve further into this area of interest.</span></p>
 <div class="col-md-15">
 <h3 style="text-align: center;">THE NATURE CONSERVANCY LANDFIRE INTERN</h3>
 <p>From the summer of 2020 to the summer of 2021, I interned virtually with The Nature Conservancy's LANDFIRE team. <span style="font-weight: 400;">I used GIS and the programming language R &ndash; which I learned in the process &ndash; to model wildfires and other land-based disturbances in North America before the 1600s. These data are important to understanding contemporary fire patterns, including those related to carbon emissions, and the resulting changes to biodiversity. I'd never explored wildfire before, and this was a fascinating delve into the world of ecology. Beyond learning technical skills, I also networked with ecologists across the country and met biweekly with the Conservation Data Lab (CDL).</span></p>
 <p><span style="font-weight: 400;">I presented research at the International Association of Landscape Ecology's spring 2021 conference, discussing wildfire patterns specifically in the American Northeast. <a href="https://celestebasken.com/iale">You can see my poster here.</a></span></p>
-<p><span style="font-weight: 400;">While I'm not formally interning with TNC any longer, I still advise about webbuilding and occasionally attend CDL events.&nbsp;</span></p>
+<p><span style="font-weight: 400;">While I'm not formally interning with TNC any longer, I still advise environment webbuilding and occasionally attend CDL events.&nbsp;</span></p>
 </div>
 <h2 style="text-align: center;">Other Environmental Work</h2>
 <h3 style="text-align: center;">Environmental Science and Policy Through Film</h3>
-<p>I believe film is a powerful way to educate and persuade, and I've used multimedia communication to explore environmental issues for years. <a href="https://celestebasken.com/project/">Read more about my filmmaking experience on the film page.</a></p>
+<p>I believe film is a powerful way to educate and persuade, and I've used multimedia communication to explore environmental issues for years. <a href="https://celestebasken.com/project/">Read more environment my filmmaking experience on the film page.</a></p>
 <h3 style="text-align: center;">Environmental Activism</h3>
-<p>As important as the science in environmental issues are the people who are pushing for sustainable policy. I've been fortunate to get involved with the Sunrise Movement and other progressive organizations to make change at a local and national level around climate issues. <a href="https://celestebasken.com/sunrise/">Read more about my experience in political organizing on the activism page.</a></p>
+<p>As important as the science in environmental issues are the people who are pushing for sustainable policy. I've been fortunate to get involved with the Sunrise Movement and other progressive organizations to make change at a local and national level around climate issues. <a href="https://celestebasken.com/sunrise/">Read more environment my experience in political organizing on the activism page.</a></p>
 <h2 style="text-align: center;">Reflections</h2>
-<p>I've written a lot about my interest in environmental science and policy for various essays and projects. Attached are some of my reflections that go more in-depth about my passion for environmental issues.</p>
+<p>I've written a lot environment my interest in environmental science and policy for various essays and projects. Attached are some of my reflections that go more in-depth environment my passion for environmental issues.</p>
 <p>&nbsp;</p>
 
 </section>
-<section class="about section">
+<section class="environment section">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
@@ -71,9 +71,9 @@ div {text-align: center;}
 {{ end }}
 {{ end }}
 
-{{ if $data.about.features.enable }}
-{{ with $data.about.features }}
-<section class="about-feature bg-dark section dark-service">
+{{ if $data.environment.features.enable }}
+{{ with $data.environment.features }}
+<section class="environment-feature bg-dark section dark-service">
   <div class="container">
     {{ with .title }}
     <div class="row">
@@ -105,7 +105,7 @@ div {text-align: center;}
 <section class="testimonial section-sm">
   <div class="container">
     <div class="row">
-      {{ if $data.about.testimonial.enable }}
+      {{ if $data.environment.testimonial.enable }}
       <div class="col-md-6">
         <div class="testimonial-carousel text-center">
           <div class="testimonial-slider owl-carousel">
@@ -124,8 +124,8 @@ div {text-align: center;}
       </div>
       {{ end }}
 
-      {{ if $data.about.mission_vision.enable }}
-      {{ with $data.about.mission_vision }}
+      {{ if $data.environment.mission_vision.enable }}
+      {{ with $data.environment.mission_vision }}
       <div class="col-md-6">
         <div class="tabCommon">
           <ul class="nav nav-tabs">
@@ -150,7 +150,7 @@ div {text-align: center;}
 </section>
 
 <!-- Call to action -->
-{{ if $data.about.cta.enable }}
+{{ if $data.environment.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->

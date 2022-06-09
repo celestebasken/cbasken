@@ -1,5 +1,5 @@
-################################## About #####################################
-about:
+################################## environment #####################################
+environment:
   enable : true
   title : ""
   content : ""
@@ -12,7 +12,7 @@ about:
 
 TNC:
   enable : false
-  image : "images/company/about.jpg"
+  image : "images/company/environment.jpg"
   title : "The Nature Conservancy TEST."
   content : "I believe effective data visualization has the power to change minds and I’m driven by the urgency of environmental issues. Since August 2020 I’ve had an internship with The Nature Conservancy’s LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
 Skills in R
@@ -60,7 +60,7 @@ Skills in R
 ################################ feature #####################################
 #features:
  # enable : true
-  #title : "More info about Celeste"
+  #title : "More info environment Celeste"
 #  feature_item:
     # feature item loop
 #    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
