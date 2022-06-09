@@ -206,13 +206,13 @@ URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Film"
-URL = "project"
+name = "Political Science"
+URL = "policy"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Portfolio & Awards"
-URL = "blog"
+name = "Film"
+URL = "project"
 weight = 3
 
 [[Languages.en.menu.footer]]
