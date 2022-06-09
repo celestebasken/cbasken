@@ -1,10 +1,10 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/backgrounds/yosemiteMts.jpg"
+  bg_image : "images/main_page/yosemite_reflective_wide.png"
   bg_overlay : true
   title : "Celeste Basken"
-  content : "High school senior, executive producer of my high school's film program, environmental activist and more."
+  content : "Freshman at UC Berkeley interested in environmental science and public policy."
   button:
     enable : true
     label : "My LinkedIn"
@@ -13,19 +13,19 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "This portfolio serves as a collection of my academic, extracurricular and general interests."
+  title : "Hello! I'm Celeste, and I'm passionate about a variety of things including environmental issues, politics, film, the outdoors, and social justice."
   description : ""
-  content : "I'm passionate about the <b>intersection between science and communication</b>, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate activism in the Sunrise Movement to influence environmental policy at the national and local levels.
+  content : "Especially after covid, I've focused on how to use my voice to address the variety of challenges and injustices facing our generation: the climate crisis, widespread social and economic inequality, political regression on womens' and gender/ sexuality issues, international conflict, and more. I hope in my life and career to take steps to address these issues through research, policy and education.  
   <br><br>
   I created this website in the computer programming language R using a [Hugo Blogdown theme](https://themes.gohugo.io/airspace-hugo/). To read more about my programming experience, please check out the [environmental science page.](https://celestebasken.com/about/)"
-  image : "images/me/wrapper-img.png"
+  image : "images/main_page/c_baseball.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/me/featue-bg.jpg"
-  title : "EXPLORE MY FILM LEADERSHIP"
+  bg_image : "images/main_page/dc_protest_wide.png"
+  title : "MY INVOLVEMENT IN POLICY SO FAR"
   content : ""
   button:
     enable : true
@@ -37,18 +37,18 @@ more:
   enable : true
   title : "Professional Experience"
   description : ""
-  content : "I've been fortunate to explore my interested in a variety of applied internships. I currently intern in the aquaponics lab at the University of Maryland, assisting graduate research. Previously, I held a yearlong virtual internship with The Nature Conservancy programming in the computer language R. This past summer, I graduated from UMD's Ag Discovery program where I took a 3-credit course on agriculture and environmental science. I've also written feature articles in the Curious Science Writers program internship with The National Institutes of Health about biomedical research studies."
-  image : "images/trees.JPG"
+  content : "I've been fortunate to explore my interested in a variety of applied internships. I held a yearlong virtual internship with The Nature Conservancy programming in the computer language R, which you can read more about on the environmental science page. In the summer of 2021, I graduated from UMD's Ag Discovery program where I took a 3-credit course on agriculture and environmental science. I've also written feature articles in the Curious Science Writers program internship with The National Institutes of Health about biomedical research studies."
+  image : "images/main_page/poster.jpg"
 
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/bladensburg.jpeg"
-  title : "I'm a multidisciplinary student."
-  content : "I have academic interest in writing, history, science, Spanish, and more."
+  bg_image : "images/main_page/nh_pano.jpeg"
+  title : "How to use this site."
+  content : "This website is a fun way for me to share my interests and aspirations, but if you'd prefer a more traditional format, check out the link below. This site also includes more personality content in the For Fun section."
   button:
     enable : true
-    label : "My interest in environmental science"
+    label : "Read my resume and CV."
     link : "About"
     
     
